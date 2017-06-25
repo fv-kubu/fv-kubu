@@ -1,0 +1,13 @@
+/* TEAM */
+Walter Renner:
+Twitter: @walterrenner
+Email: mail@walterrenner.de
+Country: Germany
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: normalize.css
+Software: SublimeText
+
+/* NOTE */
+Built with jekyll.

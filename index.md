@@ -1,1 +1,7 @@
-Hier entsteht die Webseite für den Förderverein der Kita Kunterbunt in Rheinfelden
+---
+layout: default
+---
+
+Förderverein Kita Kubu e.V.
+
+> Hier entsteht die Webseite des Förderverein Kita Kubu in Rheinfelden

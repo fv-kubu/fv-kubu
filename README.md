@@ -1,3 +1,3 @@
-# fv-kubu.de
+# walterrenner.de
 
-[fv-kubu.de](http://fv-kubu.de)
+[walterrenner.de](http://walterrenner.de)
