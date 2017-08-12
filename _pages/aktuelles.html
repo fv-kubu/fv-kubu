@@ -5,10 +5,14 @@ title: Aktuelles
 show-in-menu: yes
 active: active
 ---
- <div class="post-list">
-    {% for post in site.categories.life %}
-     <a href="{{ post.url | prepend: site.baseurl }}">
-        {% include post-cards.html %}
-      </a>
-    {% endfor %}
-  </div>
+
+<h1 class="page-title">Aktuelles</h1>
+<div class="home">
+<div class="post-list">
+{% for post in site.posts %}
+<a style="text-decoration:none"  href="{{ post.url | prepend: site.baseurl }}">
+      {% include post-cards.html %}
+</a>
+{% endfor %}
+</div>
+</div>
