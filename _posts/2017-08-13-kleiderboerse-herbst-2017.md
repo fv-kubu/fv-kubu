@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sortierte Kleiderbörse
-description: No desc
+description: Zum zweiten Mal findet am 15. Oktober 2017 unsere sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach statt.
 categories: general
 ---
 
