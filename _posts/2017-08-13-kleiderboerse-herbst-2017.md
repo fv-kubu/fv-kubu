@@ -15,6 +15,5 @@ Beginn der Börse ist um 10:00 Uhr.
 
 Für das leibliche Wohl wird mit hausgemachtem Kuchen, Getränken, Brezeln und Sandwiches gesort. Für den Verzeht stehen ausreichend Sitzgelegenheiten zur Verfügung.
 
-
 Haben Sie Interesse selbst etwas zu verkaufen?
-Weitere Informationen für Verkäufe haben wir für Sie in einem Dokument zusammengefasst welches Sie [hier herunterladen](/docs/Kleiderboerse_Teilnehmerinfo.pdf) können.
+Weitere Informationen für Verkäufer haben wir für Sie in einem Dokument zusammengefasst welches Sie [hier herunterladen](/docs/Kleiderboerse_Teilnehmerinfo.pdf) können.
