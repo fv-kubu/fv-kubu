@@ -4,8 +4,8 @@
 .site-header {
     min-height: 270px;
     background-size: cover;
-    background-image: url(/images/kita.jpg);
     background: $brand-color; /* fallback for old browsers */
+    background-image: url(/images/kita.jpg);
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -66,11 +66,10 @@
 }
 
 .author-about {
-    color: #eee;
-
+  color: #fff;
+  text-shadow: 0 0 1px #000000;
+  padding-top: 200px;
 }
-
-
 
 .menu-item {
     display: inline-block;
