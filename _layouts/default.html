@@ -1,27 +1,49 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="{{ site.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ site.title }}</title>
-  <link rel="author" href="humans.txt">
-  <link rel="stylesheet" href="/css/normalize.css">
-  <link rel="stylesheet" href="/css/syntax.css">
-  <link rel="stylesheet" href="/css/solo.css">
-  <!--
-  <link rel="icon" href="/static/img/avatar_rounded.png" type="image/png" />
-  -->
-  <link href='https://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
 {% include head.html %}
-</head>
+
 <body>
-  <div class="container">
-    <!-- <h1><a href="./">{{ site.tag_text }}</a></h1> -->
-    {{ content }}
-  </div>
-{% include scripts.html %}
+   <div class="container">
+       
+    {% include sidebar.html %}
+
+    <!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->   
+        <div id="main">
+
+             {% include header.html %}
+                    <div class="page-content">
+                        <div class="wrapper">
+                            {{ content }}
+                        </div>
+                    {% include footer.html %}
+                    </div>
+                {% if site.analytics %}
+                    {% include analytics.html %}
+                {% endif %}  
+        </div>
+        
+        
+        
+        
+        
+<script>
+    /* Set the width of the side navigation to 250px */
+    function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+    }
+
+    /* Set the width of the side navigation to 0 */
+    function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+    }
+</script>
+        
+        
+</div>            
+        
 </body>
 </html>
