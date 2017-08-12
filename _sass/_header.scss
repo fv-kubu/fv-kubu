@@ -3,16 +3,18 @@
  */
 .site-header {
     min-height: 270px;
+    background-size: cover;
+    background-image: url(images/kita.jpg);
     background: $brand-color; /* fallback for old browsers */
     background: -webkit-linear-gradient(120deg, $brand-color , $brand-color-2); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(120deg, $brand-color , $brand-color-2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */   
+    background: linear-gradient(120deg, $brand-color , $brand-color-2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     // Positioning context for the mobile navigation icon
     position: relative;
-    
+
     -webkit-box-shadow: 0 8px 6px -6px #bdbdbd;
        -moz-box-shadow: 0 8px 6px -6px #bdbdbd;
             box-shadow: 0 8px 6px -6px #bdbdbd;
-    
+
     @include media-query($on-palm) {
         min-height: 230px;
     }
