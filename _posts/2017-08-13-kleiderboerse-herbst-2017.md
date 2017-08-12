@@ -17,4 +17,4 @@ Für das leibliche Wohl wird mit hausgemachtem Kuchen, Getränken, Brezeln und S
 
 
 Haben Sie Interesse selbst etwas zu verkaufen?
-Weitere Informationen für Verkäufe haben wir für Sie in einem Dokument zusammengefasst welches Sie hier herunterladen können.
+Weitere Informationen für Verkäufe haben wir für Sie in einem Dokument zusammengefasst welches Sie [hier herunterladen](/docs/Kleiderboerse_Teilnehmerinfo.pdf) können.
