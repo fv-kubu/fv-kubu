@@ -2,7 +2,7 @@
 layout: post
 title: Adventsmarkt Rheinfelden
 description: Unser Stand am diesjährigen Adventsmarkt in Rheinfelden.
-categories: adventsmarkt
+categories: advent
 ---
 
 <!-- ![Flyer der Kleiderbörse](/images/flyer-boerse-herbst-2017.jpg "Flyer der Kleiderbörse") -->
