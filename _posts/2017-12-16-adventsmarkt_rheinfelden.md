@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adventsmarkt Rheinfelden
-description: Unser Stand am diesjährigen Adventsmarkt
+description: Unser Stand am diesjährigen Adventsmarkt in Rheinfelden.
 categories: allgemein, adventsmarkt
 ---
 
