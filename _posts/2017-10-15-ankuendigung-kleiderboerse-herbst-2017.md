@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ankündigung -- Sortierte Kleiderbörse
+title: [Ankündigung]  Sortierte Kleiderbörse
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 15. Oktober 2017.
 categories: kleiderbörse
 ---
