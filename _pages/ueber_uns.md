@@ -1,0 +1,18 @@
+---
+layout: page
+title: Der Förderverein
+menu: no
+---
+Der Förderverein Kita Kubu e.V. wurde im Oktober 2007 gegründet, um die Arbeit des Kindergartens Kunterbunt
+und damit alle dort betreuten Kinder zu unterstützen.
+
+Wie überall, sind auch die Gelder, die den Kindertagesstätten zu Verfügung stehen, begrenzt. 
+Deshalb unterstützt der Förderverein den Kindergarten bei der Umsetzung von Bildungs- und Erziehungszielen,
+in erster Linie mit finanziellen und materiellen Mitteln.
+Der Förderverein sammelt die Beiträge der Mitglieder und Spenden, um sie zu verwalten und dem Kindergarten
+für sinnvolle Projekte zu Verfügung zu stellen.
+
+Zusätzlich organisiert der Förderverein den Verkauf von Kuchen, veranstaltet Kleiderbörsen und nimmt am Adventsmarkt
+der Stadt Rheinfelden teil, um zusätzliches Geld für die Vereinskasse zu verdienen.
+
+Die Kinder verbringen einen großen Teil ihres Tages im Kindergarten. Ziel unserer Bemühungen ist es dazu beizutragen, dass ihre Fähig- und Fertigkeiten optimal gefördert werden können. Wir wollen deshalb aktiv helfen diesen Alltag zu gestalten.
