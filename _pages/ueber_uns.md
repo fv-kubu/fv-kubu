@@ -1,8 +1,11 @@
 ---
 layout: page
+permalink: /ueber_uns/
 title: Der Förderverein
-menu: no
+show-in-menu: yes
+active: active
 ---
+
 Der Förderverein Kita Kubu e.V. wurde im Oktober 2007 gegründet, um die Arbeit des Kindergartens Kunterbunt
 und damit alle dort betreuten Kinder zu unterstützen.
 
