@@ -2,7 +2,7 @@
 layout: post
 title: Adventsmarkt Rheinfelden
 description: Unser Stand am diesjährigen Adventsmarkt in Rheinfelden.
-categories: advent
+categories: bericht
 ---
 
 ![Kuchen und Plätzchen](/images/auslage.jpg "Das Angebot an Plätzchen und Kuchen")
