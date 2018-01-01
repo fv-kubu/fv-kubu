@@ -2,7 +2,7 @@
 layout: post
 title: Sortierte Kleiderbörse
 description: Resümee zu unserer Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 15. Oktober 2017.
-categories: kleiderbörse
+categories: bericht
 ---
 
 ![Sortierte Kleidung](/images/20171014_165432.jpg "Sortierte Kleidung an der Kleidebörse")
@@ -24,7 +24,7 @@ Wiederholt wurden wir dafür gelobt, wie gut alles organisiert sei; insbesondere
 Auch die Verkäufer waren äußerst zufrieden. Die meisten haben bereits angekündigt, beim nächsten Mal wieder dabei sein zu wollen.
 Dann heißt es allerdings "schnell sein!": Wir werden vermutlich eine Obergrenze an verkauften Etiketten einführen, um die Menge an Artikeln handhabbar zu gestalten.
 
-![Spielsachen](/images/20171014_165432.jpg "Die Spielwarenabteilung der Kleidebörse")
+![Spielsachen](/images/20171014_165514.jpg "Die Spielwarenabteilung der Kleidebörse")
 
 Haben Sie Interesse selbst etwas zu verkaufen?
 Weitere Informationen für Verkäufer haben wir für Sie in einem Dokument zusammengefasst welches Sie [hier herunterladen](/docs/Kleiderboerse_Teilnehmerinfo.pdf) können.
