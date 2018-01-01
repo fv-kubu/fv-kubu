@@ -21,7 +21,7 @@ so wie wir es auch schon in der Vergangenheit gemacht hatten.
 An diesem Tag wird es auch ein reichhaltiges Kuchenbuffet und kleinere Snacks, sowie Kaffee und andere Getränke geben.
 Auch zum Mitnehmen der Kuchen werden wir alles bereit stellen.
 
-Für Verkäufer haben wir hier zusätzliche Informationen zum Download zusammengestellt.
+<!-- Für Verkäufer haben wir hier zusätzliche Informationen zum Download zusammengestellt.-->
 
 Bei Interesse oder weiteren Fragen zum Ablauf der Börse als Verkäufer oder Käufer können Sie sich gerne an uns wenden:
-fv-kubu@gmail.com
+<fv-kubu@gmail.com>
