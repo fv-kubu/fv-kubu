@@ -2,7 +2,7 @@
 layout: post
 title: Sortierte Kleiderbörse am 18. März 2018
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 18. März 2018.
-categories: ankündigung
+categories: termin
 ---
 
 Zum dritten Mal veranstaltet der Förderverein Kita Kubu e.V. am **18. März 2018** eine sortierte
@@ -21,7 +21,7 @@ so wie wir es auch schon in der Vergangenheit gemacht hatten.
 An diesem Tag wird es auch ein reichhaltiges Kuchenbuffet und kleinere Snacks, sowie Kaffee und andere Getränke geben.
 Auch zum Mitnehmen der Kuchen werden wir alles bereit stellen.
 
-<!-- Für Verkäufer haben wir hier zusätzliche Informationen zum Download zusammengestellt.-->
+Für Verkäufer haben wir [hier](/docs/Kleiderboerse_Verkäuferinfo.pdf) zusätzliche Informationen zum Download zusammengestellt.
 
 Bei Interesse oder weiteren Fragen zum Ablauf der Börse als Verkäufer oder Käufer können Sie sich gerne an uns wenden:
 <fv.kubu@gmail.com>
