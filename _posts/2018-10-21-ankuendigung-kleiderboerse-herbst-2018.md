@@ -10,7 +10,7 @@ Kleiderbörse in der Hans Thoma Halle in Rheinfelden-Warmbach.
 Verkauft werden dort Kleider für Kinder, Spielwaren und Bücher.
 Die Kleider werden nach Größe sortiert und mit Preis etikettiert angeboten. 
 
-![Sortierte Kleidung](/images/Plakat_InDesign_2018-10.png "Sortierte Kleidung an der Kleidebörse"| width=100)
+![Sortierte Kleidung](/images/Plakat_InDesign_2018-10.png "Sortierte Kleidung an der Kleidebörse"){:height="50%" width="50%"}
 
 Die Türen der Halle öffnen sich dieses Mal am Sonntag morgen um 10.00 Uhr. Insgesamt lädt der Förderverein für 
 2 1/2 Stunden (bis 12.30 Uhr) zum Einkaufen und Verweilen ein. Als kleine Stärkung zwischendrin werden Kaffee und Kuchen,
