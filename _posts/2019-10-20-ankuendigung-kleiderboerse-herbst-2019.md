@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sortierte Kleiderbörse am 30. Oktober 2019
+title: Sortierte Kleiderbörse am 20. Oktober 2019
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 20. Oktober 2019.
 categories: termin
 ---
