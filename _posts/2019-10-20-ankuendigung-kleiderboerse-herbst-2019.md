@@ -17,7 +17,7 @@ Veranstaltungsbeginn und somit Einlass ist um 10.00 Uhr. Insgesamt lädt der Fö
 sowie Brezeln und Getränke zum Verkauf angeboten.
 Auch zum Mitnehmen der Kuchen für den Sonntag Nachmittag werden wir alles bereit stellen.
 
-Für Verkäufer haben wir [hier](/docs/Kleiderboerse_Verkaeuferinfo.pdf) zusätzliche Informationen zum Download zusammengestellt. 
+Für Verkäufer haben wir [hier](/docs/Verkaeuferinfo_10-2019.pdf) zusätzliche Informationen zum Download zusammengestellt. 
 Hier erfahren Sie alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Kleider.
 
 Bei Interesse oder weiteren Fragen zum Ablauf der Börse als Verkäufer oder Käufer können Sie sich gerne an uns wenden:
