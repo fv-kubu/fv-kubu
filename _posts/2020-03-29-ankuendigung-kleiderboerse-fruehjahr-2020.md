@@ -8,7 +8,7 @@ categories: termin
 Auch im Frühjahr 2020 veranstaltet der Förderverin Kita Kubu e.V. wieder eine sortierte Kleiderbörse.
 Der Verkauf wird am **Sonntag, den 29.03.2020** in der Hans-Thoma Halle in Rheinfelden-Warmbach stattfinden.
 
-Einlass ist um 10.00 Uhr bis um 12.30 Uhr. 
+Einlass ist von **10.00 Uhr bis um 12.30 Uhr**. 
 
 Verkauft werden Frühjahrs-und Sommerkleider für Kinder, Schuhe sowie Spielwaren und Bücher.
 Die Kleider werden nach Größe sortiert und mit Preis etikettiert angeboten. So erspart man sich das lästige Suchen an jedem 
