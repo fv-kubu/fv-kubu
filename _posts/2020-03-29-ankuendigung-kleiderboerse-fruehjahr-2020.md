@@ -14,7 +14,7 @@ Verkauft werden Frühjahrs-und Sommerkleider für Kinder, Schuhe sowie Spielware
 Die Kleider werden nach Größe sortiert und mit Preis etikettiert angeboten. So erspart man sich das lästige Suchen an jedem 
 Tisch und kann gleich zur gesuchten Größe gelangen. Insgesamt lädt der Förderverein für 2 1/2 Stunden zum Einkaufen und Verweilen ein. Als kleine Stärkung zwischendrin werden Kaffee und Kuchen, sowie Brezeln und Getränke zum Verkauf angeboten. Auch zum Mitnehmen der Kuchen für den Sonntag Nachmittag werden wir alles bereit stellen.
 
-Für Verkäufer haben wir [hier](/docs/Verkaeuferinfo_03-2020.pdf) zusätzliche Informationen zum Download zusammengestellt. 
+Für Verkäufer haben wir [hier](/docs/Verkaeuferinfo_2020-03.pdf) zusätzliche Informationen zum Download zusammengestellt. 
 Hier erfahren Sie alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Kleider.
 
 Bei Interesse oder weiteren Fragen zum Ablauf der Börse als Verkäufer oder Käufer können Sie sich gerne an uns wenden:
