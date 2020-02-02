@@ -36,4 +36,4 @@ Sie können uns unterstützen, indem Sie Ihren nächsten Einkauf (und alle Weite
 
 Neben tatkräftiger Unterstützung sind wir für das Bestehen des Förderverein auch auf viele Mitglieder angewiesen. Eine Mitgliedschaft ist als Familie (25€ im Jahr) oder als Einzelperson (15€ pro Jahr) möglich. Zu Beginn jedes Kindergartenjahres werden wir um entsprechende Überweisung der Gebühr bitten.
 Wir würden uns freuen, wenn wir Sie als Mitglied gewinnen könnten. Das Anmeldeformular finden Sie [hier](/docs/Flyer_Mitgliedsantrag.pdf). 
-Hier erfahren Sie alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Kleider. hier. Sie können es ausgefüllt im Kindergarten abgeben oder an die Postanschrift der Kita schicken.
+Sie können es ausgefüllt im Kindergarten abgeben oder an die Postanschrift der Kita schicken.
