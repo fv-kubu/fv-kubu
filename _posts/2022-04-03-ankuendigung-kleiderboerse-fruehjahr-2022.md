@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sortierte Kleiderbörse
-description: Sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden am 4. April 2022.
-categories: allgemein
+title: Sortierte Kleiderbörse 3. April 2022
+description: Sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden am 3. April 2022.
+categories: termin
 ---
 
 Wir freuen uns euch mitteilen zu können, dass am 3. April 2022 unsere sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach wieder stattfinden kann.
@@ -11,4 +11,6 @@ Der Jahreszeit angepasst werden dieses Mal hauptsächlich Frühlings- und Sommer
 
 Beginn der Börse ist um 10:00 Uhr.
 
-Haben Sie Interesse selbst etwas zu verkaufen? Weitere Informationen für Verkäufer haben wir für Sie in einem Dokument zusammengefasst welches Sie hier herunterladen können.
+Haben Sie Interesse selbst etwas zu verkaufen?
+Melden Sie sich bei Interesse oder bei Fragen zum Ablauf der Börse an uns:
+<FOEV.KitaKubu.Rhf@gmx.de>
