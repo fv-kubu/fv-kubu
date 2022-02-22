@@ -2,7 +2,7 @@
 layout: post
 title: Sortierte Kleiderbörse am 29. März 2020
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 29. März 2020.
-categories: termin
+categories: abgesagt
 ---
 
 Auch im Frühjahr 2020 veranstaltet der Förderverin Kita Kubu e.V. wieder eine sortierte Kleiderbörse.
