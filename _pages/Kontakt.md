@@ -5,4 +5,5 @@ permalink: /kontakt/
 # show-in-menu: yes
 # active: active
 ---
-inhalt
+
+Sie erreichen uns unter folgender E-Mail-Adresse: <FOEV.KitaKubu.Rhf@gmx.de>
