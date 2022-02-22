@@ -7,10 +7,12 @@ categories: termin
 
 Wir freuen uns euch mitteilen zu können, dass am 3. April 2022 unsere sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden wieder stattfinden kann.
 
-Der Jahreszeit angepasst werden dieses Mal hauptsächlich Frühlings- und Sommerkleider zum Verkauf angeboten. Darüber hinaus wird auch Kinderspielzeug, Bücher und alles sonstige rund ums Kind angeboten.
+Einlass ist von **10:00 Uhr** bis um **12:30 Uhr**. 
 
-Die Börse beginnt um 10:00 Uhr.
+Der Jahreszeit entsprechend werden hauptsächlich Frühlings- und Sommerkleider aber auch Schuhe, Spielzeug und Bücher zum Verkauf angeboten.
+Die Kleider sind nach Größe sortiert und mit einem Preis etikettiert, so erspart Ihr euch das lästige Suchen an jedem Tisch.
+Bezahlen könnt Ihr eure Errungenschaften an der Kasse.
 
-Haben Sie Interesse selbst etwas zu verkaufen?
-Melden Sie sich bei Interesse oder bei Fragen zum Ablauf der Börse an uns:
+Haben Ihr Interesse selbst etwas zu verkaufen?
+Melden euch bei Interesse oder bei Fragen zum Ablauf der Börse an uns:
 <FOEV.KitaKubu.Rhf@gmx.de>
