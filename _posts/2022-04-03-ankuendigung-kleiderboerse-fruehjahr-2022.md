@@ -11,4 +11,4 @@ Der Jahreszeit angepasst werden dieses Mal hauptsächlich Frühlings- und Sommer
 
 Beginn der Börse ist um 10:00 Uhr.
 
-Haben Sie Interesse selbst etwas zu verkaufen? Weitere Informationen für Verkäufer haben wir für Sie in einem Dokument zusammengefasst welches Sie hier herunterladen können.
+Haben Sie Interesse selbst etwas zu verkaufen?
