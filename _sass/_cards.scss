@@ -27,7 +27,7 @@
     padding: 10px 25px;
     color: $background-color;
     text-align: center;
-    width: 8%;
+    width: 15%;
     font-size: 20px;
     @include media-query($on-laptop) {
           padding: 12px 15px;
@@ -46,7 +46,7 @@
     display: inline-block;
     padding: 0;
     margin-left: 10px;
-    width: 80%;
+    width: 75%;
            @include media-query($on-iphone) {
             width: 70%;
     }
