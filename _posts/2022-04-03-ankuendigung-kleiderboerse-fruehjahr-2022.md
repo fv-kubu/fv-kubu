@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sortierte Kleiderbörse
-description: Sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden am 4. April 2022.
-categories: allgemein
+title: Sortierte Kleiderbörse 3. April 2022
+description: Sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden am 3. April 2022.
+categories: termin
 ---
 
 Wir freuen uns euch mitteilen zu können, dass am 3. April 2022 unsere sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach wieder stattfinden kann.
