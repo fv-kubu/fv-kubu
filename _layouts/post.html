@@ -8,7 +8,7 @@ layout: default
 
    <p class="post-metadata">
    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-       <i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date: "%d.%m.%Y" }}
+       <i class="fa fa-calendar" aria-hidden="true"></i> {{ page.market | date: "%d.%m.%Y" }}
     </time>
 
     {% if page.author %}  &nbsp;&nbsp;
@@ -18,15 +18,6 @@ layout: default
    <span><i class="fa fa-tag" aria-hidden="true"></i> {% assign tags = page.categories %}{% for tag in tags %}{{tag}}{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}</span>
 {% endif %}
 
-
-{% assign words = content | strip_html | number_of_words %}
- &nbsp;&nbsp;
-   <span><i class="fa fa-clock-o" aria-hidden="true"></i>
-{% if words < 360 %}
- 1 min
-{% else %}
-  {{ words | divided_by:180 }} mins
-{% endif %}
 </span>
 </p>
 
