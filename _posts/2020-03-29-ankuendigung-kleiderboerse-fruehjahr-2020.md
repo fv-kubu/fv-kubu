@@ -1,5 +1,6 @@
 ---
 layout: post
+market: 2020-03-29
 title: Sortierte Kleiderbörse am 29. März 2020
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 29. März 2020.
 categories: abgesagt
