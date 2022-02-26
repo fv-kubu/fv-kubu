@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-04-03
+date-of: 2022-04-03
 title: Sortierte Kleiderbörse 03. April 2022
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden am 03. April 2022
 categories: termin
