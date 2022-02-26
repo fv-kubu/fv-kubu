@@ -1,5 +1,6 @@
 ---
 layout: post
+market: 2017-06-12
 title: Adventsmarkt Rheinfelden
 description: Unser Stand am diesjährigen Adventsmarkt in Rheinfelden.
 categories: bericht
