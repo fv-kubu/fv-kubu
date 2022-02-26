@@ -15,11 +15,10 @@ Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart
 Bezahlen könnt Ihr eure gesammelten Errungenschaften an der Kasse.
 
 Habt Ihr Interesse selbst etwas zu verkaufen?
-<br>Für Verkäufer haben wir zusätzliche Informationen zusammengestellt: [Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
-<br>Hier erfahrt Ihr alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Artikel.
+<br>Hier findet Ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung: [Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
 
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
 Der Erlös (20% des Verkaufspreises) kommt den Kindern der Kiga Kunterbunt in Rheinfelden zugute.
 
-![Sortierte Kleidung](/images/Plakat_April_2022.jpg)
+![Sortierte Kleidung](/images/Plakat_April_22_weiss.jpg)
