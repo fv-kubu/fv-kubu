@@ -1,6 +1,6 @@
 ---
 layout: post
-market_2017-01-15
+market: 2017-01-15
 title: Sortierte Kleiderbörse
 description: Resümee zu unserer Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 15. Oktober 2017.
 categories: bericht
