@@ -14,11 +14,12 @@ Der Jahreszeit entsprechend werden Frühlings- und Sommerkleider, Schuhe, Spiels
 Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart Ihr euch das lästige Suchen an jedem Tisch. 
 Bezahlen könnt Ihr eure gesammelten Errungenschaften an der Kasse.
 
-Habt Ihr Interesse selbst etwas zu verkaufen? 
-Für Verkäufer haben wir zusätzliche Informationen zusammengestellt: [Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
-Hier erfahren Sie alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Kleider.
+Habt Ihr Interesse selbst etwas zu verkaufen?
+<br>Für Verkäufer haben wir zusätzliche Informationen zusammengestellt: [Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
+<br>Hier erfahrt Ihr alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Artikel.
+
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
 Der Erlös (20% des Verkaufspreises) kommt den Kindern der Kiga Kunterbunt in Rheinfelden zugute.
 
-![Sortierte Kleidung](/images/Plakat_April_2022.pdf)
+![Sortierte Kleidung](/images/Plakat_April_2022.jpg)
