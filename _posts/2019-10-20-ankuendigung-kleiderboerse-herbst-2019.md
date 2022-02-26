@@ -1,5 +1,6 @@
 ---
 layout: post
+market: 2019-10-20
 title: Sortierte Kleiderbörse am 20. Oktober 2019
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 20. Oktober 2019.
 categories: archiv
