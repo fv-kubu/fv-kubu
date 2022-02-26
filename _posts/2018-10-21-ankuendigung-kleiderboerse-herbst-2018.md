@@ -1,8 +1,9 @@
 ---
 layout: post
+market: 2018-10-21
 title: Sortierte Kleiderbörse am 21. Oktober 2018
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 21. Oktober 2018.
-categories: termin
+categories: archiv
 ---
 
 Zum vierten Mal veranstaltet der Förderverein Kita Kubu e.V. am **21. Oktober 2018** eine sortierte
