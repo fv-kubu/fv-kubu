@@ -11,11 +11,11 @@ Wir freuen uns euch mitteilen zu können, dass unsere sortierte Kleiderbörse in
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Verkauf: Sonntag, 03. April 2022 von 10:00 Uhr - 12:30 Uhr**
 
 Der Jahreszeit entsprechend werden Frühlings- und Sommerkleider, Schuhe, Spielsachen, Laufräder, Kinderwagen usw. zum Verkauf angeboten.
-Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart Ihr euch das lästige Suchen an jedem Tisch. 
-Bezahlen könnt Ihr eure gesammelten Errungenschaften an der Kasse.
+Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. 
+Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
-Habt Ihr Interesse selbst etwas zu verkaufen?
-<br>Hier findet Ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
+Habt ihr Interesse selbst etwas zu verkaufen?
+<br>Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Teilnehmerinformation](/docs/Allgemeine_Teilnehmerinfo.pdf)
   <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenannahme: 	Samstag, 02. April 2022 von 10:00 Uhr – 11:00 Uhr**
