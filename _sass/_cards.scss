@@ -41,7 +41,7 @@
     }
 }
 
-.post_grey-meta {
+.post-grey-meta {
     display: inline-block;
     background: #444f49; /* fallback for old browsers */
     background: -webkit-linear-gradient(to top, #444f49 , #2ECC71); /* Chrome 10-25, Safari 5.1-6 */
@@ -110,9 +110,14 @@ p.post-excerpt {
     }
 }
 
-// Category ribbon style gray
-
-.ribbon_grey {
+// Category ribbon style grey
+.box {
+  width: 200px; height: 300px;
+  position: relative;
+  border: 1px solid #BBB;
+  background: #EEE;
+}
+.ribbon-grey {
   position: absolute;
   right: -5px; top: -5px;
   z-index: 1;
@@ -120,8 +125,7 @@ p.post-excerpt {
   width: 75px; height: 75px;
   text-align: right;
 }
-
-.ribbon_grey span {
+.ribbon-grey span {
   font-size: 10px;
   font-weight: bold;
   color: #FFF;
@@ -138,7 +142,7 @@ p.post-excerpt {
   position: absolute;
   top: 19px; right: -21px;
 }
-.ribbon_grey span::before {
+.ribbon-grey span::before {
   content: "";
   position: absolute; left: 0px; top: 100%;
   z-index: -1;
@@ -147,7 +151,7 @@ p.post-excerpt {
   border-bottom: 3px solid transparent;
   border-top: 3px solid #5e615f;
 }
-.ribbon_grey span::after {
+.ribbon-grey span::after {
   content: "";
   position: absolute; right: 0px; top: 100%;
   z-index: -1;
