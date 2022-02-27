@@ -15,11 +15,16 @@ Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart
 Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
 Habt ihr Interesse selbst etwas zu verkaufen?
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenannahme: 	Samstag, 02. April 2022 von 10:00 Uhr – 11:00 Uhr**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenrückgabe: 	Sonntag, 03. April 2022 von 15:00 Uhr – 16:00 Uhr**
-<br>Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Teilnehmerinformation](/docs/Allgemeine_Teilnehmerinfo.pdf)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenannahme: 	Samstag, 02. April 2022 von 10:00 Uhr – 11:00 Uhr**
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenrückgabe: 	Sonntag, 03. April 2022 von 15:00 Uhr – 16:00 Uhr**
+
+Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Teilnehmerinformation](/docs/Allgemeine_Teilnehmerinfo.pdf)
   
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
