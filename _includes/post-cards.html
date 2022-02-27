@@ -19,9 +19,9 @@
 	
 		<div class="post-box">
 		{% if post.categories %}
-				<div class="ribbon"><span>{{post.categories | first}}</span></div>
+				<div class="ribbon-grey"><span>{{post.categories | first}}</span></div>
 		{% endif %}
-		<div class="post-meta" style="background: {{site.color-1}};background: -webkit-linear-gradient(to top, {{site.color-1}} , {{site.color-2}});background: linear-gradient(to top, {{site.color-1}} , {{site.color-2}});"><h1 class="date">{{ post.market | date: "%d.%m" }}</h1>
+		<div class="post-grey-meta" style="background: {{site.color-1}};background: -webkit-linear-gradient(to top, {{site.color-1}} , {{site.color-2}});background: linear-gradient(to top, {{site.color-1}} , {{site.color-2}});"><h1 class="date">{{ post.market | date: "%d.%m" }}</h1>
 		<span>{{ post.market | date: "%Y" }}</span></div>
 		<div class="post-title-box">
 		<p class="post-link">{{ post.title | truncate: 40 }}</p>
@@ -50,9 +50,9 @@
 		
 		<div class="post-box">
 		{% if post.categories %}
-				<div class="ribbon"><span>{{post.categories | first}}</span></div>
+				<div class="ribbon-grey"><span>{{post.categories | first}}</span></div>
 		{% endif %}
-		<div class="post-meta"><h1 class="date">{{ post.market | date: "%d.%m" }}</h1>
+		<div class="post-grey-meta"><h1 class="date">{{ post.market | date: "%d.%m" }}</h1>
 		<span>{{ post.market | date: "%Y" }}</span></div>
 		<div class="post-title-box">
 		<p class="post-link">{{ post.title | truncate: 40 }}</p>
