@@ -17,7 +17,6 @@ Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 Habt ihr Interesse selbst etwas zu verkaufen?
 <br>Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
 <br>[Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
-<br>[Teilnehmerinformation](/docs/Allgemeine_Teilnehmerinfo.pdf)
  
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
