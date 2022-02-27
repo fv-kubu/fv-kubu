@@ -3,7 +3,7 @@
 	<div class="post-box">
 	
 	{% if post.categories %}
-		{% if {post.categories | first} == "termin" %}
+		{% if post.categories contains "termin" %}
 			<div class="ribbon"><span>{{post.categories | first}}</span></div>
 		{% else %}
 			<div class="ribbon_grey"><span>{{post.categories | first}}</span></div>
@@ -23,7 +23,7 @@
 	<div class="post-box">
 	
 	{% if post.categories %}
-		{% if {post.categories | first} == "termin" %}
+		{% if post.categories contains "termin" %}
 			<div class="ribbon"><span>{{post.categories | first}}</span></div>
 		{% else %}
 			<div class="ribbon_grey"><span>{{post.categories | first}}</span></div>
