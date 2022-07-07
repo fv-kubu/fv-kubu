@@ -1,11 +1,8 @@
-2022-02-22-ankuendigung-kleiderboerse-fruehjahr-2022.md
-
-
 ---
 layout: post
 market: 2022-10-16
-title: Sortierte Kleiderbörse 16. Oktober 2022
-description: Sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden am 16. Oktober 2022
+title: Sortierte Kinderkleider-& Spielzeugbörse 16. Oktober 2022
+description: Sortierte Kinderkleider-& Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden am 16. Oktober 2022
 categories: termin
 ---
 
