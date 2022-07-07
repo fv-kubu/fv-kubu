@@ -14,8 +14,3 @@ Die Börse beginnt wie gewohnt um 10:00 Uhr in der Hans-Thoma-Halle Warmbach in 
 Habt Ihr Interesse selbst etwas zu verkaufen?
 Meldet Euch bei Interesse oder bei Fragen zum Ablauf der Börse an uns:
 <FOEV.KitaKubu.Rhf@gmx.de>
-
-
-Herbst- und Winterkleidung,
-Schuhen, Spielsachen, Kinderwagen
-Kinderkleider-& Spielzeugbörse
