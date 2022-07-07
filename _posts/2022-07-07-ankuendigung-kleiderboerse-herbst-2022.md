@@ -1,12 +1,12 @@
 ---
 layout: post
 market: 2022-10-16
-title: Kinderkleider-& Spielzeugbörse
+title: Kinderkleider- & Spielzeugbörse
 description: Sortierte Kinderkleider-& Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden am 16. Oktober 2022
 categories: termin
 ---
 
-Wir freuen uns euch mitteilen zu können, dass unsere sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden wieder stattfinden kann.
+Am 16. Oktober 2022 findet wieder unsere sortierte Kinderkleider- und Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden statt.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Verkauf: Sonntag, 16. Oktober 2022 von 10:00 Uhr - 12:30 Uhr**
 
