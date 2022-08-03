@@ -14,13 +14,16 @@ Der Jahreszeit entsprechend werden Herbst- und Winterkleidung, Schuhe, Spielsach
 Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. 
 Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
-Habt ihr Interesse selbst etwas zu verkaufen?
+
+**Wir haben die maximale Anzahl an Etiketten bereits verkauft und können für die geplante Börse im Herbst leider keine Etiketten mehr verkaufen.**
+
+
+Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
+
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenannahme: 	Samstag, 15. Oktober 2022 von 10:00 Uhr – 11:00 Uhr**
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenrückgabe: 	Sonntag, 16. Oktober 2022 von 15:00 Uhr – 16:00 Uhr**
-
-Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/202210_Allgemeine_Verkäuferinfo.pdf)
   
