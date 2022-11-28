@@ -15,9 +15,6 @@ in erster Linie mit finanziellen und materiellen Mitteln.
 Der Förderverein sammelt die Beiträge der Mitglieder und Spenden, um sie zu verwalten und dem Kindergarten
 für sinnvolle Projekte zu Verfügung zu stellen.
 
-Zusätzlich organisiert der Förderverein den Verkauf von Kuchen, veranstaltet Kleiderbörsen und nimmt am Adventsmarkt
-der Stadt Rheinfelden teil, um zusätzliches Geld für die Vereinskasse zu verdienen.
-
 Die Kinder verbringen einen großen Teil ihres Tages im Kindergarten. Ziel unserer Bemühungen ist es dazu beizutragen, dass ihre Fähig- und Fertigkeiten optimal gefördert werden können. Wir wollen deshalb aktiv helfen diesen Alltag zu gestalten.
 
 
