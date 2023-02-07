@@ -10,7 +10,7 @@ Am 19. März 2023 findet wieder unsere sortierte Kinderkleider- und Spielzeugbö
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Verkauf: Sonntag, 19. März 2023 von 10:00 Uhr - 12:30 Uhr**
 
-Der Jahreszeit entsprechend werden Frühjahr- und Sommerkleidung, Schuhe, Spielsachen, Laufräder, Kinderwagen usw. zum Verkauf angeboten.
+Der Jahreszeit entsprechend werden Frühjahrs- und Sommerkleidung, Schuhe, Spielsachen, Laufräder, Kinderwagen usw. zum Verkauf angeboten.
 Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. 
 Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
