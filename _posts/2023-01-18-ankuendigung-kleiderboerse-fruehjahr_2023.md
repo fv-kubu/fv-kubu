@@ -2,7 +2,7 @@
 layout: post
 market: 2023-03-19
 title: Kinderkleider- & Spielzeugbörse
-description: Wir beginnen im Februar mit den Verkauf der Etikketen für unsere Sortierte Kinderkleider- & Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden.
+description: KEINE Etiketten mehr verfügbar für unsere Sortierte Kinderkleider- & Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden.
 categories: termin
 ---
 
@@ -14,8 +14,8 @@ Der Jahreszeit entsprechend werden Frühjahrs- und Sommerkleidung, Schuhe, Spiel
 Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. 
 Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
-Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
 
+**Wir haben die maximale Anzahl an Etiketten bereits verkauft und können für die geplante Börse im Herbst leider keine Etiketten mehr verkaufen.**
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenannahme: 	Samstag, 18. März 2023 von 10:00 Uhr – 11:00 Uhr**
   
