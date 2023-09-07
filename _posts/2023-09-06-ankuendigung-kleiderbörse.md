@@ -10,7 +10,7 @@ Am 22. Oktober 2023 findet wieder unsere sortierte Kinderkleider- und Spielzeugb
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Verkauf: Sonntag, 22. Oktober 2023 von 10:00 Uhr - 12:30 Uhr**
 
-Der Jahreszeit entsprechend werden Herbst- und Winderkleidung, Schuhe, Spielsachen, Laufräder, Kinderwagen usw. zum Verkauf angeboten.
+Der Jahreszeit entsprechend werden Herbst- und Winterkleidung, Schuhe, Spielsachen, Laufräder, Kinderwagen, Halloween- und Fasnachtskostüme und vieles mehr zum Verkauf angeboten.
 Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. 
 Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
