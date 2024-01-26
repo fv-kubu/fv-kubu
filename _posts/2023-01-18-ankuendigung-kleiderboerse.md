@@ -14,7 +14,6 @@ Der Jahreszeit entsprechend werden Frühjahrs- und Sommerkleidung, Schuhe, Spiel
 Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. 
 Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
-
 **Wir haben die maximale Anzahl an Etiketten bereits verkauft und können für die geplante Börse leider keine Etiketten mehr verkaufen.**
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenannahme: 	Samstag, 18. März 2023 von 10:00 Uhr – 11:00 Uhr**
