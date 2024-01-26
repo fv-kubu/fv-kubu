@@ -25,10 +25,6 @@ Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kost
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenrückgabe: 	Sonntag, 16. Oktober 2022 von 15:00 Uhr – 16:00 Uhr**
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/202210_Allgemeine_Verkäuferinfo.pdf)
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Teilnehmerinformation](/docs/202210_Allgemeine_Teilnehmerinfo.pdf)
-  
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
 Der Erlös (20% des Verkaufspreises) behält der Förderverein Kita Kubu e.V. ein und kommt den Kindern der Kiga Kunterbunt in Rheinfelden zugute.
