@@ -21,4 +21,4 @@ Hier erfahren Sie alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf b
 Bei Interesse oder weiteren Fragen zum Ablauf der Börse als Verkäufer oder Käufer können Sie sich gerne an uns wenden:
 <fv.kubu@gmail.com>
 
-![Sortierte Kleidung](/images/Plakat_03_20.png)
+![Sortierte Kleidung](/images/202003_Plakat.png)
