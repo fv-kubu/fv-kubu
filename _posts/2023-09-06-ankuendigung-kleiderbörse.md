@@ -20,9 +20,9 @@ Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenrückgabe: 	Sonntag, 22. Oktober 2023 von 15:00 Uhr – 16:00 Uhr**
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/202310_Allgemeine_Verkäuferinfo.pdf)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Allgemeine Verkäuferinformation
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Teilnehmerinformation](/docs/202310_Allgemeine_Teilnehmerinfo.pdf)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teilnehmerinformation
   
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
