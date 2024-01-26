@@ -2,7 +2,7 @@
 layout: post
 market: 2023-03-19
 title: Kinderkleider- & Spielzeugbörse
-description: KEINE Etiketten mehr verfügbar für unsere Sortierte Kinderkleider- & Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden.
+description: KEINE Etiketten mehr verfügbar - Sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden
 categories: archiv
 ---
 
