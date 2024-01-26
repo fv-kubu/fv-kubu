@@ -20,12 +20,6 @@ Habt ihr Interesse selbst etwas zu verkaufen?
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenrückgabe: 	Sonntag, 03. April 2022 von 15:00 Uhr – 16:00 Uhr**
 
-Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/Allgemeine_Verkäuferinfo.pdf)
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Teilnehmerinformation](/docs/Allgemeine_Teilnehmerinfo.pdf)
-  
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
 Der Erlös (20% des Verkaufspreises) behält der Förderverein Kita Kubu e.V. ein und kommt den Kindern der Kiga Kunterbunt in Rheinfelden zugute.
