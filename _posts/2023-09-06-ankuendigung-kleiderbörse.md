@@ -20,10 +20,6 @@ Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenrückgabe: 	Sonntag, 22. Oktober 2023 von 15:00 Uhr – 16:00 Uhr**
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Allgemeine Verkäuferinformation
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teilnehmerinformation
-  
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
 Der Erlös (20% des Verkaufspreises) behält der Förderverein Kita Kubu e.V. ein und kommt den Kindern der Kiga Kunterbunt in Rheinfelden zugute.
