@@ -3,7 +3,7 @@ layout: post
 market: 2023-10-22
 title: Kinderkleider- & Spielzeugbörse
 description: KEINE Etiketten mehr verfügbar - Sortierte Kleiderbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden
-categories: termin
+categories: archiv
 ---
 
 Am 22. Oktober 2023 findet wieder unsere sortierte Kinderkleider- und Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden statt.
