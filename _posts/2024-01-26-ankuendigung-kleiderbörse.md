@@ -10,7 +10,7 @@ Am 21. April 2024 findet wieder unsere sortierte Kinderkleider- und Spielzeugbö
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Verkauf: Sonntag, 21. April 2024 von 10:00 Uhr - 12:30 Uhr**
 
-Der Jahreszeit entsprechend werden Herbst- und Winterkleidung, Schuhe, Spielsachen, Laufräder, Kinderwagen, Halloween- und Fasnachtskostüme und vieles mehr zum Verkauf angeboten.
+Der Jahreszeit entsprechend werden Frühlings- und Sommerkleidung, Schuhe, Spielsachen, Laufräder, Kinderwagen, Halloween- und Fasnachtskostüme und vieles mehr zum Verkauf angeboten.
 Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. 
 Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
