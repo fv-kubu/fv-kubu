@@ -2,7 +2,7 @@
 layout: post
 market: 2024-04-21
 title: Kinderkleider- & Spielzeugbörse
-description: Sortierte Kinderkleider- und Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden
+description: Etiketten-Verkauf Ende Februar! Sortierte Kinderkleider- und Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden
 categories: termin
 ---
 
@@ -14,18 +14,20 @@ Der Jahreszeit entsprechend werden Herbst- und Winterkleidung, Schuhe, Spielsach
 Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. 
 Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
-**Wir haben die maximale Anzahl an Etiketten bereits verkauft und können für die geplante Börse leider keine Etiketten mehr verkaufen.**
+**Wir informieren euch über die bekannten Kanal, wenn wir mit dem Etiketten-Verkauf Ende Februar beginnen!**
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenannahme: 	Samstag, 20. April 2024 von 10:00 Uhr – 11:00 Uhr**
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Warenrückgabe: 	Sonntag, 22. April 2024 von 15:00 Uhr – 16:00 Uhr**
+
+Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung:
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/202310_Allgemeine_Verkäuferinfo.pdf)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Allgemeine Verkäuferinformation](/docs/202404_Allgemeine_Verkäuferinfo.pdf)
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Teilnehmerinformation](/docs/202310_Allgemeine_Teilnehmerinfo.pdf)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Teilnehmerinformation](/docs/202404_Allgemeine_Teilnehmerinfo.pdf)
   
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
 Der Erlös (20% des Verkaufspreises) behält der Förderverein Kita Kubu e.V. ein und kommt den Kindern der Kiga Kunterbunt in Rheinfelden zugute.
 
-![Sortierte Kleidung](/images/202310_Plakat.jpg)
+![Sortierte Kleidung](/images/202404_Plakat.jpg)
