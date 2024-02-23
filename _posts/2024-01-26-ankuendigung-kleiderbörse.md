@@ -25,6 +25,6 @@ Hier findet ihr zusätzliche Informationen zum Erwerb der Etiketten, zu den Kost
   
 Meldet euch bei Interesse oder bei Fragen zum Ablauf der Börse bei uns: <FOEV.KitaKubu.Rhf@gmx.de>
 
-Der Erlös (20% des Verkaufspreises) behält der Förderverein Kita Kubu e.V. ein und kommt den Kindern der Kiga Kunterbunt in Rheinfelden zugute.
+Der Erlös (20% des Verkaufspreises) behält der Förderverein Kita Kubu e.V. ein und kommt den Kindern der KiTa Kunterbunt in Rheinfelden zugute.
 
 ![Sortierte Kleidung](/images/202404_Plakat.jpg)
