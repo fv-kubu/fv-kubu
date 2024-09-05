@@ -1,6 +1,6 @@
 ---
 layout: post
-market: 2024-09-05
+market: 2024-10-13
 title: Sortierte Kleiderbörse am 13. Oktober 2024
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 13. Oktober 2024
 categories: termin
