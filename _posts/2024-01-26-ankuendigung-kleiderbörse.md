@@ -3,7 +3,7 @@ layout: post
 market: 2024-04-21
 title: Kinderkleider- & Spielzeugbörse
 description: KEINE Etiketten mehr verfügbar - Sortierte Kinderkleider- und Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden
-categories: termin
+categories: archiv
 ---
 Am 21. April 2024 findet wieder unsere sortierte Kinderkleider- und Spielzeugbörse in der Hans-Thoma-Halle Warmbach in Rheinfelden statt.
 
