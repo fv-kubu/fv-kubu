@@ -18,7 +18,7 @@ Insgesamt lädt der Förderverein für 2 1/2 Stunden zum Einkaufen und Verweilen
 Als kleine Stärkung zwischendrin werden Kaffee und Kuchen sowie Getränke zum Verkauf angeboten. 
 Auch zum Mitnehmen der Kuchen für den Sonntagnachmittag werden wir alles bereit stellen.
 
-Für Verkäufer haben wir [hier](/docs/Verkaeuferinfo_2020-03.pdf) zusätzliche Informationen zum Download zusammengestellt. 
+Für Verkäufer haben wir [hier](/docs/Verkaeuferinfo_2024-10.pdf) zusätzliche Informationen zum Download zusammengestellt. 
 Hier erfahren Sie alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Kleider.
 
 Bei Interesse oder weiteren Fragen zum Ablauf der Börse als Verkäufer oder Käufer können Sie sich gerne an uns wenden:
