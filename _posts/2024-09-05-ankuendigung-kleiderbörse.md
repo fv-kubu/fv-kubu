@@ -5,8 +5,8 @@ title: Sortierte Kleiderbörse am 13. Oktober 2024
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 13. Oktober 2024
 categories: termin
 ---
-** Gerne würden wir es euch allen ermöglichen zu verkaufen, stoßen jetzt aber an unsere Helfer- und Raumkapazitäten.
-Wir haben die maximale Anzahl an Etiketten verkauft und können für die geplante Börse leider keine Etiketten mehr verkaufen. **
+**Gerne würden wir es euch allen ermöglichen zu verkaufen, stoßen jetzt aber an unsere Helfer- und Raumkapazitäten.
+Wir haben die maximale Anzahl an Etiketten verkauft und können für die geplante Börse leider keine Etiketten mehr verkaufen.**
 
 Auch im Herbst 2024 veranstaltet der Förderverin Kita Kubu e.V. wieder eine sortierte Kleiderbörse.
 Der Verkauf wird am **Sonntag, den 13.10.2024** in der Hans-Thoma Halle in Rheinfelden-Warmbach stattfinden.
