@@ -6,7 +6,7 @@ description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warm
 categories: termin
 ---
 
-Auch im Herbst 2024 veranstaltet der Förderverin Kita Kubu e.V. wieder eine sortierte Kleiderbörse.
+Auch im Frühling 2025 veranstaltet der Förderverin Kita Kubu e.V. wieder eine sortierte Kleiderbörse.
 Der Verkauf wird am **Sonntag, den 06.04.2025** in der Hans-Thoma Halle in Rheinfelden-Warmbach stattfinden.
 
 Einlass ist von **10.00 Uhr bis um 12.30 Uhr**. 
