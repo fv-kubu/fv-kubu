@@ -3,7 +3,7 @@ layout: post
 market: 2025-04-06
 title: Sortierte Kleiderbörse am 06. April 2025
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 06. April 2025
-categories: termin
+categories: archiv
 ---
 
 Auch im Frühling 2025 veranstaltet der Förderverin Kita Kubu e.V. wieder eine sortierte Kleiderbörse.
