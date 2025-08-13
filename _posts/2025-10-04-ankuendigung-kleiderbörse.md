@@ -1,6 +1,6 @@
 ---
 layout: post
-market: 2025-08-12
+market: 2025-10-04
 title: Sortierte Kleiderbörse am 04. Oktober 2025
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 04. Oktober 2025
 categories: termin
