@@ -7,7 +7,7 @@ categories: termin
 ---
 
 Auch im Herbst 2025 veranstaltet der Förderverin Kita Kubu e.V. wieder eine sortierte Kleiderbörse.
-Der Verkauf wird am **<span style="color:red;">Samstag</span>, den 04.10.2025** in der Hans-Thoma Halle in Rheinfelden-Warmbach stattfinden.
+Der Verkauf wird am **Samstag, den 04.10.2025** in der Hans-Thoma Halle in Rheinfelden-Warmbach stattfinden.
 
 Einlass ist von **09.00 Uhr bis um 13.30 Uhr**. 
 
