@@ -16,9 +16,9 @@ Als kleine Stärkung zwischendrin werden Kaffee und Kuchen sowie Getränke zum V
 Auch zum Mitnehmen der Kuchen für den Samstagnachmittag werden wir alles bereit stellen.
 
 Für Verkäufer haben wir zusätzliche Informationen zum Download zusammengestellt. Hier erfahren Sie alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Kleider.
-1. NEU: Änderungsinformation [hier](/docs/202510_Allgemeine_Informtion_Änderungen.pdf)
-2. Verkäuferinformation [hier](/docs/202510_Allgemeine_Verkäuferinfo.pdf)
-3. Teilnehmerinformation [hier](/docs/202510_Allgemeine_Teilnehmerinfo.pdf)
+1. NEU: Änderungsinformation   [hier](/docs/202510_Allgemeine_Informtion_Änderungen.pdf)
+2. Verkäuferinformation        [hier](/docs/202510_Allgemeine_Verkäuferinfo.pdf)
+3. Teilnehmerinformation       [hier](/docs/202510_Allgemeine_Teilnehmerinfo.pdf)
 
 Bei Interesse oder weiteren Fragen zum Ablauf der Börse als Verkäufer oder Käufer können Sie sich gerne an uns wenden:
 <FOEV.KitaKubu.Rhf@gmx.de>
