@@ -11,7 +11,7 @@ Der Verkauf wird am **Samstag, den 11.04.2026** in der Hans-Thoma Halle in Rhein
 
 Einlass ist von **16.00 Uhr bis um 19.00 Uhr**. 
 
-Der Jahreszeit entsprechend werden Frühlings- und Sommerkleider für Kinder, Schuhe, Spielwaren, Bücher, Laufräder, Kinderwagen und vieles mehr zum Verkauf angeboten. Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
+Der Jahreszeit entsprechend werden **mehr als 7'000 Artikel** wie z.B. Frühlings- und Sommerkleider für Kinder, Schuhe, Spielwaren, Bücher, Laufräder, Kinderwagen und vieles mehr zum Verkauf angeboten. Die Kleider sind nach Größen sortiert und mit einem Preis versehen, so erspart ihr euch das lästige Suchen an jedem Tisch. Bezahlen könnt ihr eure gesammelten Errungenschaften an der Kasse.
 
 
 Für Verkäufer haben wir zusätzliche Informationen zum Download zusammengestellt. Hier erfahren Sie alles zum Erwerb der Etiketten, zu den Kosten und zum Ablauf bei Anlieferung und Abholung der Kleider.
