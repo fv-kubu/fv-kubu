@@ -3,7 +3,7 @@ layout: post
 market: 2026-04-11
 title: Sortierte Kleiderbörse am 11. April 2026
 description: Sortierte Kleiderbörse in der Hans-Thoma-Halle in Rheinfelden/Warmbach am 11. April 2026
-categories: termin
+categories: archiv
 ---
 
 Auch im Frühjahr 2026 veranstaltet der Förderverin Kita Kubu e.V. wieder eine sortierte Kleiderbörse.
